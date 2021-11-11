@@ -1,4 +1,4 @@
-The Repository contains python code to convert a CSV file to JSON file to obtain a specific parent-child structure as required.
+The Repository contains python code to convert a CSV file to JSON file to obtain a specific parent-child structure as required. Both the Beginner & the Intermediate Part has been implemented.
 
 Project Organization:
 
