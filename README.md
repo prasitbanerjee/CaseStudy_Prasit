@@ -3,22 +3,23 @@ The Repository contains python code to convert a CSV file to JSON file to obtain
 Project Organization:
 
 ├── README.md          <- The top-level README details & realted instructions.
+
 ├── input_data.csv
+
 │   ├── external data  <- As provided
-│   
+
 ├── output_sample.json <- Output JSON file produced
-│
+
 ├── Code.txt           <- The main code written in txt format
-│
+
 ├── Unittest.txt       <- The testcase written in txt format
-│
+
 ├── Dockerfile.txt     <- Docker file for dockerization
-│
+
 ├── requirements.txt   <- The requirements file for generation of the required environment
-│                    
-│
+
 ├── csvtojson.py       <- The source code
-│
+
 └── test_csvtojson.py  <- The test case 
 
 
