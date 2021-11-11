@@ -4,9 +4,7 @@ Project Organization:
 
 ├── README.md          <- The top-level README details & realted instructions.
 
-├── input_data.csv
-
-│   ├── external data  <- As provided
+├── input_data.csv     <- External data as provided
 
 ├── output_sample.json <- Output JSON file produced
 
